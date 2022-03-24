@@ -1,0 +1,13 @@
+h3
+{
+ color: rgb(45, 45, 185);
+}
+body
+{
+    text-shadow: #5f9ea0;
+    border-left: 3px dotted;
+}
+.all class{
+ display: flex;
+ margin-bottom: 30px;
+}
